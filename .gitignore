@@ -24,6 +24,7 @@ bower_components
 # assumed name for virtualenv
 venv
 # build directory for setuptools
+dist
 sdist
 
 
