@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="module-doc",
-    version="0.1.0",
+    version="0.1.1",
     license="UNLICENSED",
     description="Simple module docstring to accessible doc files.",
     long_description=open("README.md").read(),
