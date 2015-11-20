@@ -1,0 +1,44 @@
+#
+# Unit and test coverage
+#
+.coverage
+coverage.xml
+nosetests.xml
+coverage-karma
+
+
+#
+# Node.js and npm
+#
+node_modules
+npm-debug.log
+# Bower (via npm and Node.js)
+bower_components
+
+#
+# Python and pip
+#
+*.pyc
+*.pyo
+*.egg-info
+# assumed name for virtualenv
+venv
+# build directory for setuptools
+sdist
+
+
+#
+# Mac Crap
+#
+.DS_Store
+
+#
+# Editor crap
+#
+.imdone
+
+
+# Jetbrains IDE
+.idea/
+adc-cre-listing-builder.iml
+adc-cre-listing-builder-py.iml

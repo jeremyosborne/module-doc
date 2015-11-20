@@ -1,0 +1,6 @@
+#!/usr/bin/env python
+
+import module_doc
+
+if __name__ == "__main__":
+    module_doc.rtfm()

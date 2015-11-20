@@ -1,0 +1,5 @@
+[flake8]
+# E302: expected 2 blank lines
+# E303: too many blank lines
+ignore = E302,E303
+max-line-length = 125
