@@ -14,3 +14,8 @@ into github).
                             directory to output docs (default: ./docs)
       --ext EXT             file extension for docs, please leave off dot.
                             (default: md)
+
+
+Install via pip:
+
+    pip install git+https://github.com/jeremyosborne/module-doc.git
